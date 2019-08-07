@@ -18,7 +18,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/abiosoft/readline"
+	"github.com/Mrs4s/readline"
 	"github.com/fatih/color"
 	shlex "github.com/flynn-archive/go-shlex"
 )
